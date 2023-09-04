@@ -1,24 +1,24 @@
 # 🚗 Car Price Prediction Project 📈
 
-![car image](link_to_car_image.png)
+![car image](link_to_car_image.webp)
 
-Welcome to the Car Price Prediction project repository! In this project, we aim to predict car prices using various machine learning algorithms and techniques. We have gone through a rigorous process of data cleaning, exploratory data analysis (EDA), feature engineering, data preprocessing, model development, and evaluation to arrive at our best-performing model, the Random Forest Regressor.
+Welcome to the Car Price Prediction project repository! In this project, I aim to predict car prices using various machine learning algorithms and techniques. I have gone through a rigorous process of data cleaning, exploratory data analysis (EDA), feature engineering, data preprocessing, model development, and evaluation to arrive at my best-performing model, the Random Forest Regressor.
 
 ## Project Overview 🌟
 
-In this project, we've accomplished the following steps:
+In this project, I've accomplished the following steps:
 
-1. **Data Cleaning**: We started by cleaning and preparing the dataset to remove any inconsistencies and missing values.
+1. **Data Cleaning**: I started by cleaning and preparing the dataset to remove any inconsistencies and missing values.
 
 2. **EDA**: Extensive Exploratory Data Analysis was conducted, including univariate, bivariate, statistical testing, and multivariate analysis to gain insights into the data.
 
-3. **Feature Engineering**: We employed feature engineering techniques to create new features and enhance the predictive power of our models.
+3. **Feature Engineering**: I employed feature engineering techniques to create new features and enhance the predictive power of my models.
 
 4. **PCA (Principal Component Analysis)**: Dimensionality reduction through PCA was explored to reduce complexity and improve model performance.
 
 5. **Data Preprocessing**: Encoding categorical variables and scaling numerical features was carried out to prepare the data for modeling.
 
-6. **Model Development**: We developed several regression models, including Linear Regression, Decision Tree, AdaBoost, Gradient Boosting, and Random Forest Regressor.
+6. **Model Development**: I developed several regression models, including Linear Regression, Decision Tree, AdaBoost, Gradient Boosting, and Random Forest Regressor.
 
 7. **Model Evaluation**: Thorough model evaluation was performed, and various metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared were used to compare and select the best-performing model.
 
@@ -49,7 +49,7 @@ Contributions are welcome! If you have ideas for improvement or find any issues,
 
 ## Credits and Acknowledgments 👏
 
-We would like to acknowledge the open-source community and libraries like scikit-learn, pandas, and matplotlib for their invaluable contributions to this project.
+I would like to acknowledge the open-source community and libraries like scikit-learn, pandas, and matplotlib for their invaluable contributions to this project.
 
 ## License 📜
 
