@@ -1,8 +1,8 @@
 # 🚗 Car Price Prediction Project 📈
 
-![car](https://github.com/RoshankumarS14/Car-Price-Prediction/assets/123869873/ecc02265-d770-4ee1-b50f-ca06963d799b)
-
 Welcome to the Car Price Prediction project repository! In this project, I aim to predict car prices using various machine learning algorithms and techniques. I have gone through a rigorous process of data cleaning, exploratory data analysis (EDA), feature engineering, data preprocessing, model development, and evaluation to arrive at my best-performing model, the Random Forest Regressor.
+
+![car](https://github.com/RoshankumarS14/Car-Price-Prediction/assets/123869873/ecc02265-d770-4ee1-b50f-ca06963d799b)
 
 ## Project Overview 🌟
 
@@ -28,10 +28,8 @@ After evaluating all the models, the **Random Forest Regressor** emerged as the 
 
 ## Repository Structure 📂
 
-- 📁 `data/`: Contains the dataset used for this project.
-- 📁 `notebooks/`: Jupyter notebooks with code for data cleaning, EDA, feature engineering, model development, and evaluation.
-- 📁 `scripts/`: Python scripts for data preprocessing and model training.
-- 📁 `models/`: Saved model files.
+- 💾 `CarPrice.csv`: Contains the dataset used for this project.
+- 📓 `Car Price Prediction.ipynb`: Jupyter notebook with code for data cleaning, EDA, feature engineering, model development, and evaluation.
 - 📁 `images/`: Images used in the README and project documentation.
 - 📄 `requirements.txt`: List of Python packages required to run the project code.
 - 📄 `README.md`: You are currently reading it! The main project documentation.
