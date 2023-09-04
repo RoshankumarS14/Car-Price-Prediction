@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction Project 📈
 
-![car image](link_to_car_image.webp)
+![car image]("car.webp")
 
 Welcome to the Car Price Prediction project repository! In this project, I aim to predict car prices using various machine learning algorithms and techniques. I have gone through a rigorous process of data cleaning, exploratory data analysis (EDA), feature engineering, data preprocessing, model development, and evaluation to arrive at my best-performing model, the Random Forest Regressor.
 
